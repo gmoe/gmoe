@@ -10,4 +10,4 @@ I am a musician and composer, working in the software industry as a frontend eng
 - 💬 Learn more about me on [griffin.moe](https://griffin.moe/)
 - 📫 How to reach me: [me@griffin.moe](mailto:me@griffin.moe)
 - 👤 Pronouns: he/him
-- ⚡ Fun fact: I can crochet/knit and I casually speedrun A Link To The Past. Currently learning Any% RMG.
+- ⚡ Fun fact: I can crochet/knit and I casually speedrun A Link To The Past.
