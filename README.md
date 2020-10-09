@@ -8,6 +8,6 @@ I am a musician and composer, working in the software industry as a frontend eng
 - 🌱 I’m currently learning Modern C++, CMake, and a tiny bit of Rust and SOUL.
 - 👯 I’m looking to collaborate on anything above!
 - 💬 Learn more about me on [griffin.moe](https://griffin.moe/)
-- 📫 How to reach me: [me@griffinmoe.com](mailto:me@griffinmoe.com)
+- 📫 How to reach me: [me@griffin.moe](mailto:me@griffin.moe)
 - 👤 Pronouns: he/him
-- ⚡ Fun fact: I crochet and make marshmallows!
+- ⚡ Fun fact: I can crochet/knit and I casually speedrun A Link To The Past. Currently learning Any% RMG.
