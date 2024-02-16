@@ -9,5 +9,5 @@ I am a musician and composer, working in the software industry as a frontend eng
 - 👯 I’m looking to collaborate on anything above!
 - 💬 Learn more about me on [griffin.moe](https://griffin.moe/)
 - 📫 How to reach me: [me@griffin.moe](mailto:me@griffin.moe)
-- 👤 Pronouns: he/him
+- 👤 Pronouns: they/them
 - ⚡ Fun fact: I can crochet/knit and I casually speedrun A Link To The Past.
